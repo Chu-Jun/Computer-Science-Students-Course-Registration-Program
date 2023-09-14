@@ -1,0 +1,108 @@
+AKW103	Introduction to Management	4	M
+AKW104	Finance and Accounting	4	M
+AKP201	Marketing	4	M
+AKP202	Organizational Behaviour	4	M
+AKP302	Operations Management	4	M
+CPT111	Principles of Programming	3	T
+CPT112	Discrete Structures	4	T
+CST131	Computer Organisations	4	T
+CPT113	Programming Methodology & Data Structures	3	T
+CPC151	Fundamentals of Logic and Artificial Intelligence	4	T
+CPC152	Foundations and Programming for Data Analytics	4	T
+CAT201	Integrated Software Development Workshop	2	T
+CMT221	Database Organisations & Design	4	T
+CST232	Operating Systems	3	T
+CSE241	Foundations of Software Engineering	4	T
+CPT212	Design & Analysis of Algorithms	4	T
+CST235	Principles of Computer Networks and Information Security	4	T
+CPC251	Machine Learning and Computational Intelligence	3	T/E
+CST236	Digital Systems Design	3	T/E
+CSE242	Software Requuirements Analysis & Modelling	3	T/E
+CAT304	Group Innovation Project and Study for Sustainability	3	T
+CAT302	Industrial Training	12	T
+CPT316	Programming Language Implementation and Paradigms	3	T/E
+CSE341	Software Architecture and Design	3	T/E
+CPC351	Principles of Data Analytics	3	T/E
+CPC352	Multimedia Systems and Interactive Design	3	T/E
+CPC353	Natural Language Processing	3	T/E
+CPC354	Computer Graphics and Visualisation	3	T/E
+CPC356	Mobile and Game Platform-based Development	3	T/E
+CPC357	IOT Architecture and Smart Applications	3	T/E
+CMT321	Management and Engineering of Databases	3	T/E
+CMT322	Web Engineering & Technologies	3	T/E
+CMT323	Information Systems Theory and Management	3	T/E
+CSE342	Dependable Software Systems Engineering	3	T/E
+CST330	Network Programming	3	T/E
+CST337	Network Configuration and Protocols	3	T/E
+CST338	Network and Communication Security	3	T/E
+CST339	Information Security Management and Assurance	3	T/E
+CAT402	Professional & Technopreneurship Development	2	T
+CPT411	Automata Theory and Formal Languages	3	T/E
+CPC453	Computer Vision and Robotics	3	T/E
+CAT405	Intelligent Computing Major Project	8	T
+CST431	Systems Security and Protection	3	T/E
+CST435	Parallel and Cloud Computing	3	T/E
+CAT403	Computing Infrastructure Major Project	8	T
+CSE441	Software Process and Quality Assurance	3	T/E
+CSE442	Software Testing	3	T/E
+CAT404	Software Engineering Major Project	8	T
+CPC451	Big Data Technologies and Management	3	T/E
+CPC452	Animation & Virtual Reality	3	T/E
+CMT425	Enterprise Architecture and Systems	3	T/E
+CMT426	Business Intelligence and Analytics	3	T/E
+CMT427	Information Storage and Retrieval	3	T/E
+CSE443	Real-Time Sodtware Engineering	3	T/E
+CST432	Microprocessors and Embedded Assurance	3	T/E
+CST434	Wireless Networks and Mobile Computing	3	T/E
+CST436	Digital Forensics and Investigations	3	T/E
+CST438	Cryptography and Security Applications	3	T/E
+HFF225	Philosophy and Current Issues	2	U
+HFE224	Appreciation of Ethics and Civilisations	2	U
+LKM100	Bahasa Malaysia I	2	U
+LKM200	Bahasa Malaysia II	2	U
+LKM400	Bahasa Malaysia IV	2	U
+LMT100	Preparatory English	0	Z
+LSP303	Academic English	2	U
+LSP404	Technical and Engineering English	2	U
+LAA100	Arabic	2	U
+LAC100	Chinese	2	U
+LAJ100	Japanese	2	U
+MAA101	Calculus for Science Students I	4	M
+MAA102	Calculus for Science Students II	4	M
+MAA111	Algebra for Science Students	4	M
+MAA161	Statistics for Science Students	4	M
+SEA205E	Malaysian Studies	4	U
+SKW109	Pengantar Isu-Isu Ekonomi	3	M
+SEW101	Mikroekonomi	3	M
+SEW103	Makroekonomi	3	M
+STU231	Asas-Asas Psikologi	4	M
+STU241	Psikologi Kesihatan	4	M
+STU242	Psikologi Sosial	4	M
+STU243	Psikologi Perkembangan	4	M
+WTD103	PALAPES Army	3	U
+WTD203	PALAPES Army	3	U
+WTD304	PALAPES Army	4	U
+WTL103	PALAPES Navy	3	U
+WTL203	PALAPES Navy	3	U
+WTL304	PALAPES Navy	4	U
+WTU103	PALAPES Air Force	3	U
+WTU203	PALAPES Air Force	3	U
+WTU304	PALAPES Air Force	4	U
+WPA103	SISPA (Siswa Siswi Pertahanan Awam Malaysia)	2	U
+WPA203	SISPA (Siswa Siswi Pertahanan Awam Malaysia)	2	U
+WPA303	SISPA (Siswa Siswi Pertahanan Awam Malaysia)	2	U
+WPD101	SUKSIS (Students' Police Volunteers)	2	U
+WPD201	SUKSIS (Students' Police Volunteers)	2	U
+WPD301	SUKSIS (Students' Police Volunteers)	2	U
+WJA102	St John Ambulance	2	U
+WJA202	St John Ambulance	2	U
+WJA302	St John Ambulance	2	U
+WCC105	Gamelan	1	U
+WCC107	Guitar	1	U
+WCC109	Choir	1	U
+WCC115	Modern Dance	1	U
+WCC116	Traditional Dance	1	U
+WEC102	Public Speaking in Malay Language	2	U
+WEC103E	Public Speaking in English Language	2	U
+WSU101	Sustainability of Issues, Challenges and Prospects	2	U
+WUS101	Core Entrepreneurship	2	U
